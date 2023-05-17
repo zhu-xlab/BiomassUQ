@@ -21,19 +21,23 @@ and rename the file as "EURASIAN_FORESTS.xlsx".
 Run ``pre_data.R``
 
 # References
+
 [1] J. Chave, M. R´ejou-M´echain, A. B´urquez, E. Chidumayo, M. S. Colgan,
 W. B. Delitti, A. Duque, T. Eid, P. M. Fearnside, R. C. Goodman, et al.,
 “Improved allometric models to estimate the aboveground biomass of
 tropical trees,” Global change biology, vol. 20, no. 10, pp. 3177–3190,
 2014.
+
 [2] D. S. Falster, R. A. Duursma, M. I. Ishihara, D. R. Barneche, R. G.
 FitzJohn, A. V˚arhammar, M. Aiba, M. Ando, N. Anten, M. J. Aspinwall,
 et al., “Baad: A biomass and allometry database for woody plants.,” tech.
 rep., Ecological Society of America, 2015.
+
 [3] Usoltsev, V.A. Sample tree biomass data for Eurasian forests : 
 CD-version = Фитомасса деревьев в лесах Евразии : электронная база данных / 
 V. A. Usoltsev ; Ministry of education and science of Russian Federation, 
 Ural State Forest Engineering University, Institute of economics and management. 
 – Yekaterinburg, 2015. – Издание представлено на англ. и рус. языке.
+
 [4] Q. Song, et al., "Biomass Estimation and Uncertainty Quantification 
 from Tree Height", IEEE JSTARS, 2023. (Accepted)
