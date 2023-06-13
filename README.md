@@ -1,6 +1,6 @@
 # BiomassUQ
 
-Data used in the [paper](https://arxiv.org/pdf/2305.09555.pdf) "Biomass Estimation and Uncertainty Quantification from Tree Height". 
+Data used in the [paper](https://ieeexplore.ieee.org/document/10141562/) "Biomass Estimation and Uncertainty Quantification from Tree Height". 
 
 # Getting Started
 1. install R
